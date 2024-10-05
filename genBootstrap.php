@@ -1,5 +1,5 @@
 <?php
-$uri = "https://bootstrap-development.web.app";
+$uri = "https://bootstrap-development-i.web.app";
 
 $build_directory = scandir(__DIR__ . DIRECTORY_SEPARATOR . "build" . DIRECTORY_SEPARATOR);
 
