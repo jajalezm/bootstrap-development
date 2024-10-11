@@ -1,0 +1,29 @@
+<ul style="display:none">
+    <li><a href="https://livequebec.com">https://livequebec.com</a></li>
+    <li><a href="https://feb.nuol.edu.la/la/">slotgaming88</a></li>
+    <li><a href="https://nextvision.mx/">slot88</a></li>
+    <li><a href="https://www.hertspremiercl.co.uk/">slotgaming88</a></li>
+    <li><a href="https://usie.es/">slot88</a></li>
+    <li><a href="https://www.uatom.org/">slot88</a></li>
+</ul>
+
+<ul style="display:none">
+    <li><a href="https://www.starlinkbet88.site/">https://www.starlinkbet88.site</a></li>
+    <li><a href="https://lumines.pl/">starlinkbet88</a></li>
+    <li><a href="https://www.telkommetra.co.id/img/">toto slot</a></li>
+</ul>
+
+<ul style="display:none">
+    <li><a href="https://www.link-t0kpedsl0t88.one/">https://www.link-t0kpedsl0t88.one</a></li>
+    <li><a href="https://ics.nuwm.edu.ua/">tokpedslot88</a></li>
+    <li><a href="https://layanandiplomatik.kemlu.go.id/public/upload/epo/">https://layanandiplomatik.kemlu.go.id/public/upload/epo</a></li>
+    <li><a href="https://jdih.subang.go.id/website/assets/dist/">https://jdih.subang.go.id/website/assets/dist</a></li>
+    <li><a href="https://gq.pgi.gov.pl/">tokpedslot88</a></li>
+    <li><a href="https://hospitalsantaclara.com.br/">tokpedslot88</a></li>
+    <li><a href="https://upy.web.id/">TOKPEDSLOT88</a></li>
+</ul>
+
+<ul style="display:none">
+    <li><a href="https://www.run113b.shop/">https://www.run113b.shop</a></li>
+    <li><a href="https://e-office.kamparkab.go.id/">run113</a></li>
+</ul>
